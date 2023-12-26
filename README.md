@@ -13,3 +13,9 @@
 ### 3.  Using side Drawers.
 ### [repoLink](https://github.com/adityagaur0/meals.git)
 
+## ***Section 9:*** (*MealsApp*) CROSS WIDGET STATE MANAGEMENT
+### 1.  Problem:
+### 2.  Solution: Riverpod Solution
+
+
+
