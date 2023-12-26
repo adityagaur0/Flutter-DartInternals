@@ -7,11 +7,10 @@
 ## ***Section 5:***
 ## ***Section 6:***
 ## ***Section 7:***
-## ***Section 8:*** (*Meals App*) Building Multi-Screen Apps & Navigating Between Screens
+## ***Section 8:*** (*Meals App*) [Building Multi-Screen Apps & Navigating Between Screens](https://github.com/adityagaur0/meals.git)
 ### 1.  Managing sceen stacks.
 ### 2.  Working with Tab bars.
 ### 3.  Using side Drawers.
-### [repoLink](https://github.com/adityagaur0/meals.git)
 
 ## ***Section 9:*** (*MealsApp*) CROSS WIDGET STATE MANAGEMENT
 ### 1.  Problem:
