@@ -13,7 +13,7 @@
 ### 2.  Working with Tab bars.
 ### 3.  Using side Drawers.
 ---
-## ***Section 9:*** (*MealsApp*) CROSS WIDGET STATE MANAGEMENT
-### 1.  Problem:
+## ***Section 9:*** (*MealsApp*)[CROSS WIDGET STATE MANAGEMENT](https://github.com/adityagaur0/meals?tab=readme-ov-file#section-9-animationsmeals-app)
+### 1.  Problem: 
 ### 2.  Solution: [Riverpod](https://riverpod.dev/docs/introduction/getting_started) Solution
 
