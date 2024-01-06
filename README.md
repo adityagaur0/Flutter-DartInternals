@@ -20,5 +20,3 @@
 ## ***Section 10:*** (*MealsApp*)[Animations](https://github.com/adityagaur0/meals?tab=readme-ov-file#section-10-animationsmeals-app)
 --- 
 ## ***Section 11:*** (*Shopping List App*) [Working with input and working with forms ](https://github.com/adityagaur0/meals?tab=readme-ov-file#section-10-animationsmeals-app)
-
-
